@@ -1,7 +1,6 @@
 # using hugging face model to summarize text on tkinter
 from transformers import pipeline
 import tkinter
-
 def makeSmall():
     summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
     ARTICLE = inputtext.get("1.0",'end-1c')
@@ -25,4 +24,4 @@ In the years since its release, "Never Gonna Give You Up" has become a cultural 
 '''
 
 
-
+ 
