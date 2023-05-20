@@ -11,5 +11,7 @@ To run Parvus, you need to have the Transformers library installed. You can inst
 
 This command will download and install the Transformers library along with its dependencies. Make sure you have a working Python installation and pip installed before running the command.
 
+click on the image below
+
 [![Parvus](https://img.youtube.com/vi/KdnbYfMU-0I/0.jpg)](https://www.youtube.com/watch?v=KdnbYfMU-0I)
 
